@@ -7,11 +7,9 @@
   - [Acceptance Criteria](#acceptance-criteria)
   - [Installation](#installation)
   - [Output](#output)
-  - [Database Models](#database-models)
-  - [Additional-Info](#additional-info)
   - [Reach-me](#reach-me)
   - [GitHub-name](#github-name)
-  - [Video-Link](#video-link)
+  - [App-Link](#app-link)
 
   ## Description
 
@@ -68,8 +66,9 @@ THEN I should have proper build scripts for a webpack application
 
 ![Local Host Results.](./Assets/LocalHostResult.PNG)
 
-![MongoDB Compass User schema and documents.](./Assets/Model_ThoughtDocument.PNG)
+![Heroku Results.](./Assets/ApplicationHeroku.PNG)
 
+![Demo/Install.](./Assets/DemoTextEditor.gif)
 
 ## Reach-me
 
@@ -77,10 +76,10 @@ jessyjosephine.mscit@gmail.com
 
 ## GitHub-name
 
-Github: https://github.com/Jessyjdi/NoSQL-Social-Network-API
+https://github.com/Jessyjdi/PWA-TextEditor
 
-## Video-Link
+## App-Link
 
-https://drive.google.com/file/d/1tO23Rv0r0P4r8q_-GWlLObZ8aVxQbZXI/view
+https://ancient-caverns-17922.herokuapp.com/
 
 
