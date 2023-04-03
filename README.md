@@ -70,6 +70,8 @@ THEN I should have proper build scripts for a webpack application
 
 ![Demo/Install.](./Assets/DemoTextEditor.gif)
 
+![IndexedDB.](./Assets/INDEXEDdb.PNG)
+
 ## Reach-me
 
 jessyjosephine.mscit@gmail.com
